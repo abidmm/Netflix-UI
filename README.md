@@ -9,3 +9,6 @@ Designed and implemented a React-based project that replicates the user interfac
 <img src="images/netflix-ui.png" alt="Logo" style="width:30%;" >
 <img src="images/netflix-ui1.png" alt="Logo" style="width:30%;" >
 </p>
+
+
+<a href="https://netflix-ui-demo.netlify.app/">Netflix UI</a>
